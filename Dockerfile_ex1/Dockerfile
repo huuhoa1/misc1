@@ -1,5 +1,5 @@
 #Ubuntu based image
-FROM ubuntu:15.04
+FROM ubuntu:15.05
 MAINTAINER c.c@c
 RUN apt-get update
 #RUN apt-get install -y nginx
